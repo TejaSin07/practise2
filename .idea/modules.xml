@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/01_Design_Movie_Ticket_Booking_System.iml" filepath="$PROJECT_DIR$/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/01_Design_Movie_Ticket_Booking_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/01_Design_Tic_Tac_Toe.iml" filepath="$PROJECT_DIR$/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/01_Design_Tic_Tac_Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_LLD_Interview_Problems/02_Design_Chess_Game/02_Design_Chess_Game.iml" filepath="$PROJECT_DIR$/07_LLD_Interview_Problems/02_Design_Chess_Game/02_Design_Chess_Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_LLD_Concurrency_Interview_Problems/02_Design_Pub_Sub_Model_Kafka/02_Design_Pub_Sub_Model_Kafka.iml" filepath="$PROJECT_DIR$/10_LLD_Concurrency_Interview_Problems/02_Design_Pub_Sub_Model_Kafka/02_Design_Pub_Sub_Model_Kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_LLD_Concurrency_Interview_Problems/03_Design_Cache_System/03_Design_Cache_System.iml" filepath="$PROJECT_DIR$/10_LLD_Concurrency_Interview_Problems/03_Design_Cache_System/03_Design_Cache_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_LLD_Interview_Problems/03_Design_Snake_and_Food_Game/03_Design_Snake_and_Food_Game.iml" filepath="$PROJECT_DIR$/07_LLD_Interview_Problems/03_Design_Snake_and_Food_Game/03_Design_Snake_and_Food_Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_LLD_Interview_Problems/04_Design_Parking_Lot/04_Design_Parking_Lot.iml" filepath="$PROJECT_DIR$/07_LLD_Interview_Problems/04_Design_Parking_Lot/04_Design_Parking_Lot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_LLD_Concurrency_Interview_Problems/04_Design_Rate_Limiter/04_Design_Rate_Limiter.iml" filepath="$PROJECT_DIR$/10_LLD_Concurrency_Interview_Problems/04_Design_Rate_Limiter/04_Design_Rate_Limiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_LLD_Interview_Problems/05_Design_Elevator_System/05_Design_Elevator_System.iml" filepath="$PROJECT_DIR$/07_LLD_Interview_Problems/05_Design_Elevator_System/05_Design_Elevator_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_LLD_Interview_Problems/06_Design_Inventory_Management_System/06_Design_Inventory_Management_System.iml" filepath="$PROJECT_DIR$/07_LLD_Interview_Problems/06_Design_Inventory_Management_System/06_Design_Inventory_Management_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_LLD_Interview_Problems/07_Design Car rental/07_Design Car rental.iml" filepath="$PROJECT_DIR$/07_LLD_Interview_Problems/07_Design Car rental/07_Design Car rental.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_LLD_Interview_Problems/08_Design_Vending_Machine/08_Design_Vending_Machine.iml" filepath="$PROJECT_DIR$/07_LLD_Interview_Problems/08_Design_Vending_Machine/08_Design_Vending_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_LLD_Interview_Problems/09_Design File System/09_Design File System.iml" filepath="$PROJECT_DIR$/07_LLD_Interview_Problems/09_Design File System/09_Design File System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_LLD_Interview_Problems/10_Design_Logging_System/10_Design_Logging_System.iml" filepath="$PROJECT_DIR$/07_LLD_Interview_Problems/10_Design_Logging_System/10_Design_Logging_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_LLD_Interview_Problems/11_Design_Splitwise/11_Design_Splitwise.iml" filepath="$PROJECT_DIR$/07_LLD_Interview_Problems/11_Design_Splitwise/11_Design_Splitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_LLD_Interview_Problems/12_Design_ATM_Machine/12_Design_ATM_Machine.iml" filepath="$PROJECT_DIR$/07_LLD_Interview_Problems/12_Design_ATM_Machine/12_Design_ATM_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LowLevelDesignCode-main.iml" filepath="$PROJECT_DIR$/.idea/LowLevelDesignCode-main.iml" />
+    </modules>
+  </component>
+</project>
